@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Yu-Hsuan Lai
+
+M.S. in Computer Science, National Cheng Kung University
+
+Email: [p76121194@gs.ncku.edu.tw](mailto:p76121194@gs.ncku.edu.tw)
